@@ -1,0 +1,4 @@
+﻿interface IEncyclopedia
+{
+    string GenerateWord();
+}
